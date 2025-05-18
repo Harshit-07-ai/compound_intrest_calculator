@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/bg.png);
+  }
+  h1{
+      font-size: 70px;
+      text-align: center;
+      padding-top: 50px;
+  }
+  #rd{
+      color: red;
+  }
+  #blu{
+      color: midnightblue;
+  }
+  p{
+      text-align: center;
+  }
+  #phn{
+    margin-left: 50px;
+    height: 2%;
+    width: 2%;
+  }
+  #claim{
+      font-size: 40px;
+      color: #548CFF;
+  }
+  .submit{
+     margin-left: 800px;
+     background-color: #4CAF50;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  }
